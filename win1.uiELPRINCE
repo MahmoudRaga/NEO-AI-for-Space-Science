@@ -1,0 +1,7 @@
+{'id': 'win1', 'pos_x': 'center', 'pos_y': 'center', 'width': 805, 'height': 404, 'bg': 'white', 'overrideredirect': '0', 'topmost': '0', 'title': 'tk', 'icon': 'None'}
+[{'id': 'Label1', 'type': 'place', 'master': 'win1', 'width': '805', 'height': '413', 'x': '-4', 'y': '-2', 'text': '', 'bg': '#f0f0f0', 'fg': 'black', 'font family': 'arial', 'font size': '13', 'image': 'C:/Users/Mahmoud Ragab/OneDrive/Desktop/NEO/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L3drNjIyMDM4MjgtaW1hZ2Uta3A2Ym1jYmIuanBn.png', 'side': 'left', 'fill': 'None', 'expand': 'false', 'padx': 10, 'pady': 10}, {'id': 'Entry1', 'type': 'place', 'master': 'win1', 'width': '779', 'height': '58', 'x': '4', 'y': '10', 'bg': '#f0f0f0', 'fg': 'black', 'font family': 'arial', 'font size': '13', 'bd': '0', 'highlightcolor': 'None', 'highlightbackground': 'None', 'show': '', 'highlightthickness': '1', 'side': 'left', 'fill': 'None', 'expand': 'false', 'padx': 10, 'pady': 10}, {'id': 'Button1', 'type': 'place', 'master': 'win1', 'width': '86', 'height': '43', 'x': '353', 'y': '334', 'text': 'Back', 'bg': '#f0f0f0', 'fg': 'black', 'font family': 'arial', 'font size': '20', 'bd': '0', 'highlightcolor': 'None', 'highlightbackground': 'None', 'activebackground': 'white', 'activeforeground': 'black', 'image': 'None', 'relief': 'flat', 'side': 'left', 'fill': 'None', 'expand': 'false', 'padx': 10, 'pady': 10}]
+['Label1', 'Entry1', 'Button1']
+[2, 2, 1, 1, 1, 1, 6, 1, 1, 1, 1, 1]
+[0, 0, 0]
+0
+['Label', 'Entry', 'Button']
